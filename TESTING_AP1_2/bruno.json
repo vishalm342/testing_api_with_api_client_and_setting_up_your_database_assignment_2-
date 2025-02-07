@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "TESTING_AP1_2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
